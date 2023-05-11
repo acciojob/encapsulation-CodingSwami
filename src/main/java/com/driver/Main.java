@@ -6,6 +6,7 @@ public class Main {
     RWOnly obj= new RWOnly();
     
    /* obj.name= "Gaurav";
+   System.out.println(obj.name);
     error: name has private access in RWOnly
     obj.name= "Gaurav";
     */
