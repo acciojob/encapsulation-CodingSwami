@@ -7,12 +7,12 @@ public class RWOnly {
         this.name= "";
     }
     
-    public String get()
+    public String getName()
     {
         return this.name;
     }
     
-    public void set(String str)
+    public void setName(String str)
     {
         this.name= str;
     }
