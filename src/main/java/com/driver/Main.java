@@ -11,7 +11,7 @@ public class Main {
     obj.name= "Gaurav";
     */
     
-    obj.set("Gaurav");
-    System.out.println(obj.get());
+    obj.setName("Gaurav");
+    System.out.println(obj.getName());
   }
 }
